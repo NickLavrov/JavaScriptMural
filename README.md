@@ -1,6 +1,7 @@
 # JavaScriptMural
 Uses JavaScript to create a dynamic mosaic-like mural on the canvas element.
 See it in action at nicklavrov.com/mural
+(Drag and drop only supported on Chrome)
 
 ## mural.js
 This is the main JavaScript code
